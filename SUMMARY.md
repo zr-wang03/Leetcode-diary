@@ -9,3 +9,5 @@
   * [94 Binary Tree Inorder Traversal](binary-search-tree-traversal/94-binary-tree-inorder-traversal.md)
   * [144 Binary Tree Preorder Traversal](binary-search-tree-traversal/144-binary-tree-preorder-traversal.md)
   * [145 Binary Tree Postorder Traversal](binary-search-tree-traversal/145-binary-tree-postorder-traversal.md)
+* [100. Same Tree](100.-same-tree.md)
+* [101. Symmetric Tree](101.-symmetric-tree.md)
