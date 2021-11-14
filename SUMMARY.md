@@ -13,3 +13,5 @@
 * [101. Symmetric Tree](101.-symmetric-tree.md)
 * [104. Maximum Depth of Binary Tree](104.-maximum-depth-of-binary-tree.md)
 * [108. Convert Sorted Array to Binary Search Tree](108.-convert-sorted-array-to-binary-search-tree.md)
+* [110. Balanced Binary Tree](110.-balanced-binary-tree.md)
+* [111. Minimum Depth of Binary Tree](111.-minimum-depth-of-binary-tree.md)
