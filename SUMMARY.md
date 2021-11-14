@@ -15,3 +15,5 @@
 * [108. Convert Sorted Array to Binary Search Tree](108.-convert-sorted-array-to-binary-search-tree.md)
 * [110. Balanced Binary Tree](110.-balanced-binary-tree.md)
 * [111. Minimum Depth of Binary Tree](111.-minimum-depth-of-binary-tree.md)
+* [226. Invert Binary Tree](226.-invert-binary-tree.md)
+* [235. Lowest Common Ancestor of a Binary Search Tree](235.-lowest-common-ancestor-of-a-binary-search-tree.md)
