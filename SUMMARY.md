@@ -17,3 +17,5 @@
 * [111. Minimum Depth of Binary Tree](111.-minimum-depth-of-binary-tree.md)
 * [226. Invert Binary Tree](226.-invert-binary-tree.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](235.-lowest-common-ancestor-of-a-binary-search-tree.md)
+* [257. Binary Tree Paths](257.-binary-tree-paths.md)
+* [404. Sum of Left Leaves](404.-sum-of-left-leaves.md)
