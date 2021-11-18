@@ -19,3 +19,5 @@
 * [235. Lowest Common Ancestor of a Binary Search Tree](235.-lowest-common-ancestor-of-a-binary-search-tree.md)
 * [257. Binary Tree Paths](257.-binary-tree-paths.md)
 * [404. Sum of Left Leaves](404.-sum-of-left-leaves.md)
+* [501. Find Mode in Binary Search Tree](501.-find-mode-in-binary-search-tree.md)
+* [530. Minimum Absolute Difference in BST](530.-minimum-absolute-difference-in-bst.md)
