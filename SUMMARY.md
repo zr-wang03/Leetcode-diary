@@ -23,3 +23,5 @@
 * [530. Minimum Absolute Difference in BST](530.-minimum-absolute-difference-in-bst.md)
 * [543. Diameter of Binary Tree](543.-diameter-of-binary-tree.md)
 * [559. Maximum Depth of N-ary Tree](559.-maximum-depth-of-n-ary-tree.md)
+* [563. Binary Tree Tilt](563.-binary-tree-tilt.md)
+* [572. Subtree of Another Tree](572.-subtree-of-another-tree.md)
