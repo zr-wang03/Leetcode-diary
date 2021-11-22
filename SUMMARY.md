@@ -27,3 +27,5 @@
 * [572. Subtree of Another Tree](572.-subtree-of-another-tree.md)
 * [589. N-ary Tree Preorder Traversal](589.-n-ary-tree-preorder-traversal.md)
 * [590. N-ary Tree Postorder Traversal](590.-n-ary-tree-postorder-traversal.md)
+* [606. Construct String from Binary Tree](606.-construct-string-from-binary-tree.md)
+* [617. Merge Two Binary Trees](617.-merge-two-binary-trees.md)
