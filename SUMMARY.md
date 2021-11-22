@@ -25,3 +25,5 @@
 * [559. Maximum Depth of N-ary Tree](559.-maximum-depth-of-n-ary-tree.md)
 * [563. Binary Tree Tilt](563.-binary-tree-tilt.md)
 * [572. Subtree of Another Tree](572.-subtree-of-another-tree.md)
+* [589. N-ary Tree Preorder Traversal](589.-n-ary-tree-preorder-traversal.md)
+* [590. N-ary Tree Postorder Traversal](590.-n-ary-tree-postorder-traversal.md)
