@@ -29,3 +29,5 @@
 * [590. N-ary Tree Postorder Traversal](590.-n-ary-tree-postorder-traversal.md)
 * [606. Construct String from Binary Tree](606.-construct-string-from-binary-tree.md)
 * [617. Merge Two Binary Trees](617.-merge-two-binary-trees.md)
+* [637. Average of Levels in Binary Tree](637.-average-of-levels-in-binary-tree.md)
+* [671. Second Minimum Node In a Binary Tree](671.-second-minimum-node-in-a-binary-tree.md)
