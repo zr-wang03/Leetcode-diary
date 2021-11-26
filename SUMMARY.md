@@ -31,3 +31,5 @@
 * [617. Merge Two Binary Trees](617.-merge-two-binary-trees.md)
 * [637. Average of Levels in Binary Tree](637.-average-of-levels-in-binary-tree.md)
 * [671. Second Minimum Node In a Binary Tree](671.-second-minimum-node-in-a-binary-tree.md)
+* [700. Search in a Binary Search Tree](700.-search-in-a-binary-search-tree.md)
+* [703. Kth Largest Element in a Stream](703.-kth-largest-element-in-a-stream.md)
