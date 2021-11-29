@@ -41,3 +41,5 @@
 
 * [783. Minimum Distance Between BST Nodes](783.-minimum-distance-between-bst-nodes.md)
 * [872. Leaf-Similar Trees](872.-leaf-similar-trees.md)
+* [897. Increasing Order Search Tree](897.-increasing-order-search-tree.md)
+* [938. Range Sum of BST](938.-range-sum-of-bst.md)
