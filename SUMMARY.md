@@ -43,3 +43,5 @@
 * [872. Leaf-Similar Trees](872.-leaf-similar-trees.md)
 * [897. Increasing Order Search Tree](897.-increasing-order-search-tree.md)
 * [938. Range Sum of BST](938.-range-sum-of-bst.md)
+* [965. Univalued Binary Tree](965.-univalued-binary-tree.md)
+* [993. Cousins in Binary Tree](993.-cousins-in-binary-tree.md)
