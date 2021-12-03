@@ -45,3 +45,4 @@
 * [938. Range Sum of BST](938.-range-sum-of-bst.md)
 * [965. Univalued Binary Tree](965.-univalued-binary-tree.md)
 * [993. Cousins in Binary Tree](993.-cousins-in-binary-tree.md)
+* [1022. Sum of Root To Leaf Binary Numbers](1022.-sum-of-root-to-leaf-binary-numbers.md)
