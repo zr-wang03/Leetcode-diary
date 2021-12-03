@@ -15,7 +15,7 @@ Output: true
 
 ### Solution 1
 
-Runtime: **116 ms **Memory Usage: **17.3 MB**
+Runtime: **116 ms** Memory Usage: **17.3 MB**
 
 ```
 # Definition for a binary tree node.
@@ -49,7 +49,7 @@ This solution uses recursive method to search through the tree. Then creates a l
 
 ### Solution 2
 
-Runtime: **68 ms **Memory Usage: **18.1 MB**
+Runtime: **68 ms** Memory Usage: **18.1 MB**
 
 ```
 class Solution:

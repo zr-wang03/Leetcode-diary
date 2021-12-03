@@ -36,13 +36,10 @@
 * [653 Two Sum IV - Input is a BST](tree-questions/653-two-sum-iv-input-is-a-bst.md)
 * [112 Path Sum](tree-questions/112-path-sum.md)
 * [167 Two Sum II - Input Array Is Sorted](tree-questions/167-two-sum-ii-input-array-is-sorted.md)
-
-***
-
-* [783. Minimum Distance Between BST Nodes](783.-minimum-distance-between-bst-nodes.md)
-* [872. Leaf-Similar Trees](872.-leaf-similar-trees.md)
-* [897. Increasing Order Search Tree](897.-increasing-order-search-tree.md)
-* [938. Range Sum of BST](938.-range-sum-of-bst.md)
-* [965. Univalued Binary Tree](965.-univalued-binary-tree.md)
-* [993. Cousins in Binary Tree](993.-cousins-in-binary-tree.md)
-* [1022. Sum of Root To Leaf Binary Numbers](1022.-sum-of-root-to-leaf-binary-numbers.md)
+* [783. Minimum Distance Between BST Nodes](tree-questions/783.-minimum-distance-between-bst-nodes.md)
+* [872. Leaf-Similar Trees](tree-questions/872.-leaf-similar-trees.md)
+* [897. Increasing Order Search Tree](tree-questions/897.-increasing-order-search-tree.md)
+* [938. Range Sum of BST](tree-questions/938.-range-sum-of-bst.md)
+* [965. Univalued Binary Tree](tree-questions/965.-univalued-binary-tree.md)
+* [993. Cousins in Binary Tree](tree-questions/993.-cousins-in-binary-tree.md)
+* [1022. Sum of Root To Leaf Binary Numbers](tree-questions/1022.-sum-of-root-to-leaf-binary-numbers.md)

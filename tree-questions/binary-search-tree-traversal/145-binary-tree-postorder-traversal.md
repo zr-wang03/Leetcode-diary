@@ -7,7 +7,7 @@
 
 ### Solution 1
 
-Runtime: **20 ms **Memory Usage: **14.2 MB**
+Runtime: **20 ms** Memory Usage: **14.2 MB**
 
 ```
 class Solution:
@@ -31,7 +31,7 @@ Simple Recursive method
 
 ### Solution 2
 
-Runtime: **28 ms **Memory Usage: **14.3 MB**
+Runtime: **28 ms** Memory Usage: **14.3 MB**
 
 ```
 class Solution:

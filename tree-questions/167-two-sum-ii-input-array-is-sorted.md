@@ -7,12 +7,12 @@ description: Two Points, Dictionary, Binary Search
 * Easy
 *   Given a **1-indexed** array of integers `numbers` that is already _**sorted in non-decreasing order**_, find two numbers such that they add up to a specific `target` number. Let these two numbers be `numbers[index1]` and `numbers[index2]` where `1 <= index1 < index2 <= numbers.length`.
 
-    Return_ the indices of the two numbers, _`index1`_ and _`index2`_, **added by one** as an integer array _`[index1, index2]`_ of length 2._
+    Return _the indices of the two numbers,_ `index1` _and_ `index2`_, **added by one** as an integer array_ `[index1, index2]` _of length 2._
 * __[_https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/_](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)__
 
 ### Solution 1
 
-Runtime: **56 ms **Memory Usage: **14.5 MB**
+Runtime: **56 ms** Memory Usage: **14.5 MB**
 
 ```
 class Solution:
@@ -31,7 +31,7 @@ This solution uses the same method of dictionary as the previous ones
 
 ### Solution 2
 
-Runtime: **84 ms **Memory Usage: **14.6 MB**
+Runtime: **84 ms** Memory Usage: **14.6 MB**
 
 ```
 class Solution:
@@ -56,7 +56,7 @@ This solution uses binary search. However this goes through the list multiple ti
 
 ### Solution 3
 
-Runtime: **64 ms **Memory Usage: **14.6 MB**
+Runtime: **64 ms** Memory Usage: **14.6 MB**
 
 ```
 class Solution:

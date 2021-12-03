@@ -10,7 +10,7 @@ description: Dictionary
 
 ### 1. Solution one&#x20;
 
-Runtime: **4116 ms **Memory Usage: **14.8 MB**
+Runtime: **4116 ms** Memory Usage: **14.8 MB**
 
 ```
 class Solution:
@@ -27,7 +27,7 @@ This solution goes over every two combinations of the list. Therefore it takes m
 
 ### 2. Solution two&#x20;
 
-Runtime: **55 ms **Memory Usage: **15.4 MB**
+Runtime: **55 ms** Memory Usage: **15.4 MB**
 
 ```
 class Solution:

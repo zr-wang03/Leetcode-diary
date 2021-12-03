@@ -11,7 +11,7 @@ description: Recursive, Tree
 
 ### Solution 1
 
-Runtime: **40 ms **Memory Usage: **15.1 MB**
+Runtime: **40 ms** Memory Usage: **15.1 MB**
 
 ```
 class Solution:
@@ -28,12 +28,12 @@ class Solution:
 ```
 
 {% hint style="info" %}
-This method uses recursive method. Since we want to find a root-to-leaf path, we add an 'if' to determine if we have reached the leaf. If not, then we won't calculate the sum.** **
+This method uses recursive method. Since we want to find a root-to-leaf path, we add an 'if' to determine if we have reached the leaf. If not, then we won't calculate the sum. ****&#x20;
 {% endhint %}
 
 ### **Solution 2**
 
-Runtime: **32 ms **Memory Usage: **15.2 MB**
+Runtime: **32 ms** Memory Usage: **15.2 MB**
 
 ```
 class Solution:
