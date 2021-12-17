@@ -43,3 +43,7 @@
 * [965. Univalued Binary Tree](tree-questions/965.-univalued-binary-tree.md)
 * [993. Cousins in Binary Tree](tree-questions/993.-cousins-in-binary-tree.md)
 * [1022. Sum of Root To Leaf Binary Numbers](tree-questions/1022.-sum-of-root-to-leaf-binary-numbers.md)
+
+***
+
+* [310. Minimum Height Trees](310.-minimum-height-trees.md)
