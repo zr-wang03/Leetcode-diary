@@ -47,3 +47,4 @@
 ***
 
 * [310. Minimum Height Trees](310.-minimum-height-trees.md)
+* [96. Unique Binary Search Trees](96.-unique-binary-search-trees.md)
