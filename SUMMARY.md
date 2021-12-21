@@ -29,7 +29,7 @@
 * [104. Maximum Depth of Binary Tree](tree-questions/104.-maximum-depth-of-binary-tree.md)
 * [101. Symmetric Tree](tree-questions/101.-symmetric-tree.md)
 * [100. Same Tree](tree-questions/100.-same-tree.md)
-* [Binary Search Tree Traversal](tree-questions/binary-search-tree-traversal/README.md)
+* [👍 Binary Search Tree Traversal](tree-questions/binary-search-tree-traversal/README.md)
   * [94 Binary Tree Inorder Traversal](tree-questions/binary-search-tree-traversal/94-binary-tree-inorder-traversal.md)
   * [144 Binary Tree Preorder Traversal](tree-questions/binary-search-tree-traversal/144-binary-tree-preorder-traversal.md)
   * [145 Binary Tree Postorder Traversal](tree-questions/binary-search-tree-traversal/145-binary-tree-postorder-traversal.md)
@@ -50,3 +50,4 @@
 * [96. Unique Binary Search Trees](96.-unique-binary-search-trees.md)
 * [95. Unique Binary Search Trees II](95.-unique-binary-search-trees-ii.md)
 * [98. Validate Binary Search Tree](98.-validate-binary-search-tree.md)
+* [99. Recover Binary Search Tree](99.-recover-binary-search-tree.md)
