@@ -1,4 +1,4 @@
-# Binary Search Tree Traversal
+# 👍 Binary Search Tree Traversal
 
 {% content-ref url="94-binary-tree-inorder-traversal.md" %}
 [94-binary-tree-inorder-traversal.md](94-binary-tree-inorder-traversal.md)
