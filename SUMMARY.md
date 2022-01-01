@@ -55,3 +55,6 @@
 * [455. Assign Cookies](455.-assign-cookies.md)
 * [561. Array Partition I](561.-array-partition-i.md)
 * [21. Merge Two Sorted Lists](21.-merge-two-sorted-lists.md)
+* [1844. Replace All Digits with Characters](1844.-replace-all-digits-with-characters.md)
+* [507. Perfect Number](507.-perfect-number.md)
+* [35. Search Insert Position](35.-search-insert-position.md)
