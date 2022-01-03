@@ -61,3 +61,4 @@
 * [2114. Maximum Number of Words Found in Sentences](2114.-maximum-number-of-words-found-in-sentences.md)
 * [1071. Greatest Common Divisor of Strings](1071.-greatest-common-divisor-of-strings.md)
 * [1502. Can Make Arithmetic Progression From Sequence](1502.-can-make-arithmetic-progression-from-sequence.md)
+* [1221. Split a String in Balanced Strings](1221.-split-a-string-in-balanced-strings.md)
