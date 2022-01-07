@@ -73,3 +73,7 @@
   * [188. Best Time to Buy and Sell Stock IV](stock/stock-problem/188.-best-time-to-buy-and-sell-stock-iv.md)
   * [309. Best Time to Buy and Sell Stock with Cooldown](stock/stock-problem/309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
   * [714. Best Time to Buy and Sell Stock with Transaction Fee](stock/stock-problem/714.-best-time-to-buy-and-sell-stock-with-transaction-fee.md)
+
+***
+
+* [300. Longest Increasing Subsequence](300.-longest-increasing-subsequence.md)
