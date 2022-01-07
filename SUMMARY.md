@@ -80,3 +80,5 @@
 * [1624. Largest Substring Between Two Equal Characters](1624.-largest-substring-between-two-equal-characters.md)
 * [821. Shortest Distance to a Character](821.-shortest-distance-to-a-character.md)
 * [374. Guess Number Higher or Lower](374.-guess-number-higher-or-lower.md)
+* [1838. Frequency of the Most Frequent Element](1838.-frequency-of-the-most-frequent-element.md)
+* [209. Minimum Size Subarray Sum](209.-minimum-size-subarray-sum.md)
