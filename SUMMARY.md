@@ -82,3 +82,5 @@
 * [374. Guess Number Higher or Lower](374.-guess-number-higher-or-lower.md)
 * [1838. Frequency of the Most Frequent Element](1838.-frequency-of-the-most-frequent-element.md)
 * [209. Minimum Size Subarray Sum](209.-minimum-size-subarray-sum.md)
+* [525. Contiguous Array](525.-contiguous-array.md)
+* [1849. Splitting a String Into Descending Consecutive Values](1849.-splitting-a-string-into-descending-consecutive-values.md)
