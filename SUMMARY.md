@@ -77,3 +77,6 @@
 ***
 
 * [300. Longest Increasing Subsequence](300.-longest-increasing-subsequence.md)
+* [1624. Largest Substring Between Two Equal Characters](1624.-largest-substring-between-two-equal-characters.md)
+* [821. Shortest Distance to a Character](821.-shortest-distance-to-a-character.md)
+* [374. Guess Number Higher or Lower](374.-guess-number-higher-or-lower.md)
