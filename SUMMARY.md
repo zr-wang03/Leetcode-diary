@@ -84,3 +84,5 @@
 * [209. Minimum Size Subarray Sum](209.-minimum-size-subarray-sum.md)
 * [525. Contiguous Array](525.-contiguous-array.md)
 * [1849. Splitting a String Into Descending Consecutive Values](1849.-splitting-a-string-into-descending-consecutive-values.md)
+* [306. Additive Number](306.-additive-number.md)
+* [1347. Minimum Number of Steps to Make Two Strings Anagram](1347.-minimum-number-of-steps-to-make-two-strings-anagram.md)
