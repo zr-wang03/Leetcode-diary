@@ -87,3 +87,5 @@
 * [306. Additive Number](306.-additive-number.md)
 * [1347. Minimum Number of Steps to Make Two Strings Anagram](1347.-minimum-number-of-steps-to-make-two-strings-anagram.md)
 * [1910. Remove All Occurrences of a Substring](1910.-remove-all-occurrences-of-a-substring.md)
+* [1695. Maximum Erasure Value](1695.-maximum-erasure-value.md)
+* [2134. Minimum Swaps to Group All 1's Together II](2134.-minimum-swaps-to-group-all-1s-together-ii.md)
