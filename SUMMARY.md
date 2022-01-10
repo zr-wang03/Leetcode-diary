@@ -89,3 +89,6 @@
 * [1910. Remove All Occurrences of a Substring](1910.-remove-all-occurrences-of-a-substring.md)
 * [1695. Maximum Erasure Value](1695.-maximum-erasure-value.md)
 * [2134. Minimum Swaps to Group All 1's Together II](2134.-minimum-swaps-to-group-all-1s-together-ii.md)
+* [328. Odd Even Linked List](328.-odd-even-linked-list.md)
+* [1817. Finding the Users Active Minutes](1817.-finding-the-users-active-minutes.md)
+* [5. Longest Palindromic Substring](5.-longest-palindromic-substring.md)
