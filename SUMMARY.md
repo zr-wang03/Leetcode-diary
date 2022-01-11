@@ -92,3 +92,8 @@
 * [328. Odd Even Linked List](328.-odd-even-linked-list.md)
 * [1817. Finding the Users Active Minutes](1817.-finding-the-users-active-minutes.md)
 * [5. Longest Palindromic Substring](5.-longest-palindromic-substring.md)
+* [688. Knight Probability in Chessboard](688.-knight-probability-in-chessboard.md)
+* [413. Arithmetic Slices](413.-arithmetic-slices.md)
+* [1094. Car Pooling](1094.-car-pooling.md)
+* [198. House Robber](198.-house-robber.md)
+* [909. Snakes and Ladders](909.-snakes-and-ladders.md)
