@@ -1,4 +1,8 @@
+---
+description: Dynamic Planning
+---
+
 # Stock Problem
 
-Dynamic Planning
+
 
