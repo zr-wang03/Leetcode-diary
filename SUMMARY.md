@@ -113,3 +113,9 @@
 * [14. Longest Common Prefix](2022.jan.13/14.-longest-common-prefix.md)
 * [15. 3Sum](2022.jan.13/15.-3sum.md)
 * [16. 3Sum Closest](2022.jan.13/16.-3sum-closest.md)
+
+## 2022.JAN.14
+
+* [17. Letter Combinations of a Phone Number](2022.jan.14/17.-letter-combinations-of-a-phone-number.md)
+* [18. 4Sum](2022.jan.14/18.-4sum.md)
+* [19. Remove Nth Node From End of List](2022.jan.14/19.-remove-nth-node-from-end-of-list.md)
