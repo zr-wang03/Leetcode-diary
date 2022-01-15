@@ -119,3 +119,6 @@
 * [17. Letter Combinations of a Phone Number](2022.jan.14/17.-letter-combinations-of-a-phone-number.md)
 * [18. 4Sum](2022.jan.14/18.-4sum.md)
 * [19. Remove Nth Node From End of List](2022.jan.14/19.-remove-nth-node-from-end-of-list.md)
+* [20. Valid Parentheses](2022.jan.14/20.-valid-parentheses.md)
+* [22. Generate Parentheses](2022.jan.14/22.-generate-parentheses.md)
+* [24. Swap Nodes in Pairs](2022.jan.14/24.-swap-nodes-in-pairs.md)
