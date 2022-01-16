@@ -1,0 +1,16 @@
+#-------------------------------------------------------------------------------
+# Name:         README
+# Purpose:      Tells the audience about files included for the UTEK
+#
+# Author:       LinQiao Zhang, Zhuoran Wang, Victor Wang 
+#
+# Created:      15/01/2022
+# Copyright:(c) LinQiao Zhang, Zhuoran Wang, Victor Wang
+#-------------------------------------------------------------------------------
+
+Part One Descriptions
+The first function called main is defined to locate the given files and prompt the user to choose one. It shows the user the choices they could make. Then they are prompted to enter a filename for our program to locate it.
+
+The second function called filereader is defined to read the file that the user chose and assigns the inputs in the file to variables so other functions could use them.
+
+The third function called fileeditor uses information from the files (which were read and located in the other two functions) and assigns them to variables. It performs the aggregation of the location and time required to clean the location. It will then create another file (in the UTEK programming Part1 Folder), storing the outputs in a txt file.

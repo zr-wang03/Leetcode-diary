@@ -122,3 +122,18 @@
 * [20. Valid Parentheses](2022.jan.14/20.-valid-parentheses.md)
 * [22. Generate Parentheses](2022.jan.14/22.-generate-parentheses.md)
 * [24. Swap Nodes in Pairs](2022.jan.14/24.-swap-nodes-in-pairs.md)
+
+## 2022.JAN.15
+
+* [UTEK Programming I](2022.jan.15/utek-programming-i.md)
+* [UTEK Programming II](2022.jan.15/utek-programming-ii.md)
+
+## 2022.JAN.16
+
+* [26. Remove Duplicates from Sorted Array](2022.jan.16/26.-remove-duplicates-from-sorted-array.md)
+* [27. Remove Element](2022.jan.16/27.-remove-element.md)
+* [28. Implement strStr()](2022.jan.16/28.-implement-strstr.md)
+* [29. Divide Two Integers](2022.jan.16/29.-divide-two-integers.md)
+* [31. Next Permutation](2022.jan.16/31.-next-permutation.md)
+* [36. Valid Sudoku](2022.jan.16/36.-valid-sudoku.md)
+* [38. Count and Say](2022.jan.16/38.-count-and-say.md)
