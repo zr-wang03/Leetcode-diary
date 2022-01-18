@@ -145,3 +145,11 @@
 * [40. Combination Sum II](2022.jan.17/40.-combination-sum-ii.md)
 * [46. Permutations1](2022.jan.17/46.-permutations1.md)
 * [47. Permutations II](2022.jan.17/47.-permutations-ii.md)
+
+## 2022.JAN.18
+
+* [34. Find First and Last Position of Element in Sorted Array](2022.jan.18/34.-find-first-and-last-position-of-element-in-sorted-array.md)
+* [43. Multiply Strings](2022.jan.18/43.-multiply-strings.md)
+* [45. Jump Game II](2022.jan.18/45.-jump-game-ii.md)
+* [48. Rotate Image](2022.jan.18/48.-rotate-image.md)
+* [49. Group Anagrams](2022.jan.18/49.-group-anagrams.md)
