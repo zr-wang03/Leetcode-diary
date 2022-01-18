@@ -137,3 +137,11 @@
 * [31. Next Permutation](2022.jan.16/31.-next-permutation.md)
 * [36. Valid Sudoku](2022.jan.16/36.-valid-sudoku.md)
 * [38. Count and Say](2022.jan.16/38.-count-and-say.md)
+
+## 2022.JAN.17
+
+* [33. Search in Rotated Sorted Array](2022.jan.17/33.-search-in-rotated-sorted-array.md)
+* [39. Combination Sum](2022.jan.17/39.-combination-sum.md)
+* [40. Combination Sum II](2022.jan.17/40.-combination-sum-ii.md)
+* [46. Permutations1](2022.jan.17/46.-permutations1.md)
+* [47. Permutations II](2022.jan.17/47.-permutations-ii.md)
