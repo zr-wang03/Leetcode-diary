@@ -153,3 +153,10 @@
 * [45. Jump Game II](2022.jan.18/45.-jump-game-ii.md)
 * [48. Rotate Image](2022.jan.18/48.-rotate-image.md)
 * [49. Group Anagrams](2022.jan.18/49.-group-anagrams.md)
+
+## 2022.JAN.19
+
+* [50. Pow(x, n)](2022.jan.19/50.-pow-x-n.md)
+* [54. Spiral Matrix](2022.jan.19/54.-spiral-matrix.md)
+* [55. Jump Game](2022.jan.19/55.-jump-game.md)
+* [56. Merge Intervals](2022.jan.19/56.-merge-intervals.md)
