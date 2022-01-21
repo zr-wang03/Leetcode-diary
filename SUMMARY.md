@@ -168,3 +168,11 @@
 * [61. Rotate List](2022.jan.20/61.-rotate-list.md)
 * [62. Unique Paths](2022.jan.20/62.-unique-paths.md)
 * [63. Unique Paths II](2022.jan.20/63.-unique-paths-ii.md)
+
+## 2022.JAN.21
+
+* [64. Minimum Path Sum](2022.jan.21/64.-minimum-path-sum.md)
+* [71. Simplify Path](2022.jan.21/71.-simplify-path.md)
+* [73. Set Matrix Zeroes](2022.jan.21/73.-set-matrix-zeroes.md)
+* [74. Search a 2D Matrix](2022.jan.21/74.-search-a-2d-matrix.md)
+* [75. Sort Colors](2022.jan.21/75.-sort-colors.md)
