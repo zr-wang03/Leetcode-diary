@@ -176,3 +176,11 @@
 * [73. Set Matrix Zeroes](2022.jan.21/73.-set-matrix-zeroes.md)
 * [74. Search a 2D Matrix](2022.jan.21/74.-search-a-2d-matrix.md)
 * [75. Sort Colors](2022.jan.21/75.-sort-colors.md)
+
+## 2022.JAN.22
+
+* [77. Combinations](2022.jan.22/77.-combinations.md)
+* [78. Subsets](2022.jan.22/78.-subsets.md)
+* [79. Word Search](2022.jan.22/79.-word-search.md)
+* [80. Remove Duplicates from Sorted Array II](2022.jan.22/80.-remove-duplicates-from-sorted-array-ii.md)
+* [81. Search in Rotated Sorted Array II](2022.jan.22/81.-search-in-rotated-sorted-array-ii.md)
