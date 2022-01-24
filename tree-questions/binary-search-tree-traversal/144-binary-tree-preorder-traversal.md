@@ -3,7 +3,7 @@
 * Easy
 * Given the `root` of a binary tree, return _the preorder traversal of its nodes' values_.
 * [https://leetcode.com/problems/binary-tree-preorder-traversal/](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-* ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)
+* ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### Solution 1
 

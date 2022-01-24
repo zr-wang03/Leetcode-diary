@@ -184,3 +184,12 @@
 * [79. Word Search](2022.jan.22/79.-word-search.md)
 * [80. Remove Duplicates from Sorted Array II](2022.jan.22/80.-remove-duplicates-from-sorted-array-ii.md)
 * [81. Search in Rotated Sorted Array II](2022.jan.22/81.-search-in-rotated-sorted-array-ii.md)
+
+## 2022.JAN.23
+
+* [82. Remove Duplicates from Sorted List II](2022.jan.23/82.-remove-duplicates-from-sorted-list-ii.md)
+* [83. Remove Duplicates from Sorted List](2022.jan.23/83.-remove-duplicates-from-sorted-list.md)
+* [86. Partition List](2022.jan.23/86.-partition-list.md)
+* [89. Gray Code](2022.jan.23/89.-gray-code.md)
+* [90. Subsets II](2022.jan.23/90.-subsets-ii.md)
+* [91. Decode Ways](2022.jan.23/91.-decode-ways.md)
