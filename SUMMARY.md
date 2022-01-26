@@ -209,3 +209,11 @@
 * [107. Binary Tree Level Order Traversal II](2022.jan.25/107.-binary-tree-level-order-traversal-ii.md)
 * [109. Convert Sorted List to Binary Search Tree](2022.jan.25/109.-convert-sorted-list-to-binary-search-tree.md)
 * [113. Path Sum II](2022.jan.25/113.-path-sum-ii.md)
+
+## 2022.JAN.26
+
+* [114. Flatten Binary Tree to Linked List](2022.jan.26/114.-flatten-binary-tree-to-linked-list.md)
+* [116. Populating Next Right Pointers in Each Node](2022.jan.26/116.-populating-next-right-pointers-in-each-node.md)
+* [117. Populating Next Right Pointers in Each Node II](2022.jan.26/117.-populating-next-right-pointers-in-each-node-ii.md)
+* [120.Triangle](2022.jan.26/120.triangle.md)
+* [128. Longest Consecutive Sequence](2022.jan.26/128.-longest-consecutive-sequence.md)
