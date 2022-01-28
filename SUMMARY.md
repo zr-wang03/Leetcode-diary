@@ -217,3 +217,11 @@
 * [117. Populating Next Right Pointers in Each Node II](2022.jan.26/117.-populating-next-right-pointers-in-each-node-ii.md)
 * [120.Triangle](2022.jan.26/120.triangle.md)
 * [128. Longest Consecutive Sequence](2022.jan.26/128.-longest-consecutive-sequence.md)
+
+## 2022.JAN.27
+
+* [129. Sum Root to Leaf Numbers](2022.jan.27/129.-sum-root-to-leaf-numbers.md)
+* [130. Surrounded Regions](2022.jan.27/130.-surrounded-regions.md)
+* [131. Palindrome Partitioning](2022.jan.27/131.-palindrome-partitioning.md)
+* [134. Gas Station](2022.jan.27/134.-gas-station.md)
+* [137. Single Number II](2022.jan.27/137.-single-number-ii.md)
