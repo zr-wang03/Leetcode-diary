@@ -233,3 +233,11 @@
 * [143. Reorder List](2022.jan.28/143.-reorder-list.md)
 * [150. Evaluate Reverse Polish Notation](2022.jan.28/150.-evaluate-reverse-polish-notation.md)
 * [151. Reverse Words in a String](2022.jan.28/151.-reverse-words-in-a-string.md)
+
+## 2022.JAN.29
+
+* [152. Maximum Product Subarray](2022.jan.29/152.-maximum-product-subarray.md)
+* [153. Find Minimum in Rotated Sorted Array](2022.jan.29/153.-find-minimum-in-rotated-sorted-array.md)
+* [162. Find Peak Element](2022.jan.29/162.-find-peak-element.md)
+* [165. Compare Version Numbers](2022.jan.29/165.-compare-version-numbers.md)
+* [172. Factorial Trailing Zeroes](2022.jan.29/172.-factorial-trailing-zeroes.md)
