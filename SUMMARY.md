@@ -225,3 +225,11 @@
 * [131. Palindrome Partitioning](2022.jan.27/131.-palindrome-partitioning.md)
 * [134. Gas Station](2022.jan.27/134.-gas-station.md)
 * [137. Single Number II](2022.jan.27/137.-single-number-ii.md)
+
+## 2022.JAN.28
+
+* [139. Word Break](2022.jan.28/139.-word-break.md)
+* [142. Linked List Cycle II](2022.jan.28/142.-linked-list-cycle-ii.md)
+* [143. Reorder List](2022.jan.28/143.-reorder-list.md)
+* [150. Evaluate Reverse Polish Notation](2022.jan.28/150.-evaluate-reverse-polish-notation.md)
+* [151. Reverse Words in a String](2022.jan.28/151.-reverse-words-in-a-string.md)
