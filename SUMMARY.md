@@ -241,3 +241,11 @@
 * [162. Find Peak Element](2022.jan.29/162.-find-peak-element.md)
 * [165. Compare Version Numbers](2022.jan.29/165.-compare-version-numbers.md)
 * [172. Factorial Trailing Zeroes](2022.jan.29/172.-factorial-trailing-zeroes.md)
+
+## 2022.JAN.30
+
+* [179. Largest Number](2022.jan.30/179.-largest-number.md)
+* [187. Repeated DNA Sequences](2022.jan.30/187.-repeated-dna-sequences.md)
+* [189. Rotate Array](2022.jan.30/189.-rotate-array.md)
+* [199. Binary Tree Right Side View](2022.jan.30/199.-binary-tree-right-side-view.md)
+* [200. Number of Islands](2022.jan.30/200.-number-of-islands.md)
