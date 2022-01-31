@@ -249,3 +249,11 @@
 * [189. Rotate Array](2022.jan.30/189.-rotate-array.md)
 * [199. Binary Tree Right Side View](2022.jan.30/199.-binary-tree-right-side-view.md)
 * [200. Number of Islands](2022.jan.30/200.-number-of-islands.md)
+
+## 2022.JAN.31
+
+* [204. Count Primes](2022.jan.31/204.-count-primes.md)
+* [207. Course Schedule](2022.jan.31/207.-course-schedule.md)
+* [213. House Robber II](2022.jan.31/213.-house-robber-ii.md)
+* [215. Kth Largest Element in an Array](2022.jan.31/215.-kth-largest-element-in-an-array.md)
+* [216. Combination Sum III](2022.jan.31/216.-combination-sum-iii.md)
