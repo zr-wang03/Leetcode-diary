@@ -265,3 +265,11 @@
 * [222. Count Complete Tree Nodes](2022.feb.2/222.-count-complete-tree-nodes.md)
 * [223. Rectangle Area](2022.feb.2/223.-rectangle-area.md)
 * [227. Basic Calculator II](2022.feb.2/227.-basic-calculator-ii.md)
+
+## 2022.FEB.3
+
+* [229. Majority Element II](2022.feb.3/229.-majority-element-ii.md)
+* [230. Kth Smallest Element in a BST](2022.feb.3/230.-kth-smallest-element-in-a-bst.md)
+* [236. Lowest Common Ancestor of a Binary Tree](2022.feb.3/236.-lowest-common-ancestor-of-a-binary-tree.md)
+* [238. Product of Array Except Self](2022.feb.3/238.-product-of-array-except-self.md)
+* [240. Search a 2D Matrix II](2022.feb.3/240.-search-a-2d-matrix-ii.md)
