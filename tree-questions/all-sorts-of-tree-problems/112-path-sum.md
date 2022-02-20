@@ -6,7 +6,7 @@ description: Recursive, Tree
 
 * Easy
 * Given the `root` of a binary tree and an integer `targetSum`, return `true` if the tree has a **root-to-leaf** path such that adding up all the values along the path equals `targetSum`.
-* ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)here 7,2,1 are leaf because they don't have child node&#x20;
+* ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)here 7,2,1 are leaf because they don't have child node&#x20;
 * [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
 
 ### Solution 1

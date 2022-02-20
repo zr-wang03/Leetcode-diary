@@ -278,3 +278,11 @@
 
 * [241. Different Ways to Add Parentheses](2022.feb.5/241.-different-ways-to-add-parentheses.md)
 * [264. Ugly Number II](2022.feb.5/264.-ugly-number-ii.md)
+
+## 2022.FEB.19
+
+* [274. H-Index](2022.feb.19/274.-h-index.md)
+* [275. H-Index II](2022.feb.19/275.-h-index-ii.md)
+* [279. Perfect Squares](2022.feb.19/279.-perfect-squares.md)
+* [287. Find the Duplicate Number](2022.feb.19/287.-find-the-duplicate-number.md)
+* [289. Game of Life](2022.feb.19/289.-game-of-life.md)
