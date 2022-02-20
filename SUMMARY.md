@@ -286,3 +286,11 @@
 * [279. Perfect Squares](2022.feb.19/279.-perfect-squares.md)
 * [287. Find the Duplicate Number](2022.feb.19/287.-find-the-duplicate-number.md)
 * [289. Game of Life](2022.feb.19/289.-game-of-life.md)
+
+## 2022.FEB.20
+
+* [313. Super Ugly Number](2022.feb.20/313.-super-ugly-number.md)
+* [316. Remove Duplicate Letters](2022.feb.20/316.-remove-duplicate-letters.md)
+* [319. Bulb Switcher](2022.feb.20/319.-bulb-switcher.md)
+* [322. Coin Change](2022.feb.20/322.-coin-change.md)
+* [324. Wiggle Sort II](2022.feb.20/324.-wiggle-sort-ii.md)
