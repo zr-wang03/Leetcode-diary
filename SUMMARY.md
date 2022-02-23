@@ -302,3 +302,11 @@
 * [337. House Robber III](2022.feb.21/337.-house-robber-iii.md)
 * [343. Integer Break](2022.feb.21/343.-integer-break.md)
 * [347. Top K Frequent Elements](2022.feb.21/347.-top-k-frequent-elements.md)
+
+## 2022.FEB.22
+
+* [357. Count Numbers with Unique Digits](2022.feb.22/357.-count-numbers-with-unique-digits.md)
+* [368. Largest Divisible Subset](2022.feb.22/368.-largest-divisible-subset.md)
+* [372. Super Pow](2022.feb.22/372.-super-pow.md)
+* [375. Guess Number Higher or Lower II](2022.feb.22/375.-guess-number-higher-or-lower-ii.md)
+* [376. Wiggle Subsequence](2022.feb.22/376.-wiggle-subsequence.md)
