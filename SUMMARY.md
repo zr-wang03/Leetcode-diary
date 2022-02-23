@@ -310,3 +310,11 @@
 * [372. Super Pow](2022.feb.22/372.-super-pow.md)
 * [375. Guess Number Higher or Lower II](2022.feb.22/375.-guess-number-higher-or-lower-ii.md)
 * [376. Wiggle Subsequence](2022.feb.22/376.-wiggle-subsequence.md)
+
+## 2022.FEB.23
+
+* [377. Combination Sum IV](2022.feb.23/377.-combination-sum-iv.md)
+* [378. Kth Smallest Element in a Sorted Matrix](2022.feb.23/378.-kth-smallest-element-in-a-sorted-matrix.md)
+* [386. Lexicographical Numbers](2022.feb.23/386.-lexicographical-numbers.md)
+* [388. Longest Absolute File Path](2022.feb.23/388.-longest-absolute-file-path.md)
+* [390. Elimination Game](2022.feb.23/390.-elimination-game.md)
