@@ -318,3 +318,11 @@
 * [386. Lexicographical Numbers](2022.feb.23/386.-lexicographical-numbers.md)
 * [388. Longest Absolute File Path](2022.feb.23/388.-longest-absolute-file-path.md)
 * [390. Elimination Game](2022.feb.23/390.-elimination-game.md)
+
+## 2022.FEB.24
+
+* [393. UTF-8 Validation](2022.feb.24/393.-utf-8-validation.md)
+* [394. Decode String](2022.feb.24/394.-decode-string.md)
+* [395. Longest Substring with At Least K Repeating Characters](2022.feb.24/395.-longest-substring-with-at-least-k-repeating-characters.md)
+* [396. Rotate Function](2022.feb.24/396.-rotate-function.md)
+* [397. Integer Replacement](2022.feb.24/397.-integer-replacement.md)
