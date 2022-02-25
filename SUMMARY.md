@@ -326,3 +326,11 @@
 * [395. Longest Substring with At Least K Repeating Characters](2022.feb.24/395.-longest-substring-with-at-least-k-repeating-characters.md)
 * [396. Rotate Function](2022.feb.24/396.-rotate-function.md)
 * [397. Integer Replacement](2022.feb.24/397.-integer-replacement.md)
+
+## 2022.FEB.25
+
+* [400. Nth Digit](2022.feb.25/400.-nth-digit.md)
+* [402. Remove K Digits](2022.feb.25/402.-remove-k-digits.md)
+* [406. Queue Reconstruction by Height](2022.feb.25/406.-queue-reconstruction-by-height.md)
+* [416. Partition Equal Subset Sum](2022.feb.25/416.-partition-equal-subset-sum.md)
+* [419. Battleships in a Board](2022.feb.25/419.-battleships-in-a-board.md)
