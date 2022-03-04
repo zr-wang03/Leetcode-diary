@@ -335,7 +335,9 @@
 * [416. Partition Equal Subset Sum](2022.feb.25/416.-partition-equal-subset-sum.md)
 * [419. Battleships in a Board](2022.feb.25/419.-battleships-in-a-board.md)
 
-## 2022.FEB.28
+## Week 2022.FEB.28
 
-* [423. Reconstruct Original Digits from English](2022.feb.28/423.-reconstruct-original-digits-from-english.md)
-* [424. Longest Repeating Character Replacement](2022.feb.28/424.-longest-repeating-character-replacement.md)
+* [423. Reconstruct Original Digits from English](week-2022.feb.28/423.-reconstruct-original-digits-from-english.md)
+* [424. Longest Repeating Character Replacement](week-2022.feb.28/424.-longest-repeating-character-replacement.md)
+* [433. Minimum Genetic Mutation](week-2022.feb.28/433.-minimum-genetic-mutation.md)
+* [435. Non-overlapping Intervals](week-2022.feb.28/435.-non-overlapping-intervals.md)
