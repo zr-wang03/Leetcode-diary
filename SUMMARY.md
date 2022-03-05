@@ -344,3 +344,5 @@
 * [436. Find Right Interval](week-2022.feb.28/436.-find-right-interval.md)
 * [437. Path Sum III](week-2022.feb.28/437.-path-sum-iii.md)
 * [438. Find All Anagrams in a String](week-2022.feb.28/438.-find-all-anagrams-in-a-string.md)
+* [442. Find All Duplicates in an Array](week-2022.feb.28/442.-find-all-duplicates-in-an-array.md)
+* [443. String Compression](week-2022.feb.28/443.-string-compression.md)
