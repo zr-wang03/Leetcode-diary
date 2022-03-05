@@ -341,3 +341,4 @@
 * [424. Longest Repeating Character Replacement](week-2022.feb.28/424.-longest-repeating-character-replacement.md)
 * [433. Minimum Genetic Mutation](week-2022.feb.28/433.-minimum-genetic-mutation.md)
 * [435. Non-overlapping Intervals](week-2022.feb.28/435.-non-overlapping-intervals.md)
+* [436. Find Right Interval](week-2022.feb.28/436.-find-right-interval.md)
