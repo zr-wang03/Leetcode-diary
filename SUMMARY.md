@@ -342,3 +342,5 @@
 * [433. Minimum Genetic Mutation](week-2022.feb.28/433.-minimum-genetic-mutation.md)
 * [435. Non-overlapping Intervals](week-2022.feb.28/435.-non-overlapping-intervals.md)
 * [436. Find Right Interval](week-2022.feb.28/436.-find-right-interval.md)
+* [437. Path Sum III](week-2022.feb.28/437.-path-sum-iii.md)
+* [438. Find All Anagrams in a String](week-2022.feb.28/438.-find-all-anagrams-in-a-string.md)
