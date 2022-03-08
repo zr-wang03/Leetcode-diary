@@ -351,3 +351,11 @@
 * [450. Delete Node in a BST](week-2022.feb.28/450.-delete-node-in-a-bst.md)
 * [451. Sort Characters By Frequency](week-2022.feb.28/451.-sort-characters-by-frequency.md)
 * [452. Minimum Number of Arrows to Burst Balloons](week-2022.feb.28/452.-minimum-number-of-arrows-to-burst-balloons.md)
+
+## Week March 7th&#x20;
+
+* [453. Minimum Moves to Equal Array Elements](week-march-7th/453.-minimum-moves-to-equal-array-elements.md)
+* [454. 4Sum II](week-march-7th/454.-4sum-ii.md)
+* [456. 132 Pattern](week-march-7th/456.-132-pattern.md)
+* [457. Circular Array Loop](week-march-7th/457.-circular-array-loop.md)
+* [462. Minimum Moves to Equal Array Elements II](week-march-7th/462.-minimum-moves-to-equal-array-elements-ii.md)
