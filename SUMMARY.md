@@ -363,3 +363,9 @@
 * [467. Unique Substrings in Wraparound String](week-march-7th/467.-unique-substrings-in-wraparound-string.md)
 * [468. Validate IP Address](week-march-7th/468.-validate-ip-address.md)
 * [10. Regular Expression Matching](week-march-7th/10.-regular-expression-matching.md)
+
+## Week April 15th&#x20;
+
+* [470. Implement Rand10() Using Rand7()](week-april-15th/470.-implement-rand10-using-rand7.md)
+* [473. Matchsticks to Square](week-april-15th/473.-matchsticks-to-square.md)
+* [474. Ones and Zeroes](week-april-15th/474.-ones-and-zeroes.md)
