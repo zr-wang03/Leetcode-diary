@@ -369,3 +369,5 @@
 * [470. Implement Rand10() Using Rand7()](week-april-15th/470.-implement-rand10-using-rand7.md)
 * [473. Matchsticks to Square](week-april-15th/473.-matchsticks-to-square.md)
 * [474. Ones and Zeroes](week-april-15th/474.-ones-and-zeroes.md)
+* [475. Heaters](week-april-15th/475.-heaters.md)
+* [Page 1](week-april-15th/page-1.md)
