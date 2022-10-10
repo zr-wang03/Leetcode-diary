@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Summary page](README.md)
+* [Summary page](summary.md)
 
 ## 🌲 Tree Questions
 
@@ -370,4 +370,3 @@
 * [473. Matchsticks to Square](week-april-15th/473.-matchsticks-to-square.md)
 * [474. Ones and Zeroes](week-april-15th/474.-ones-and-zeroes.md)
 * [475. Heaters](week-april-15th/475.-heaters.md)
-* [Page 1](week-april-15th/page-1.md)
