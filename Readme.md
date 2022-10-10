@@ -1,6 +1,7 @@
-# Table of contents
+# Introduction
+Hi, welcome to my leetcode "diary". I am currently trying to learn algorithm and solve algorithm problems. So this is the place where I put my thoughts and solutions to specific problems on leetcode. Feel free to leave a comment as well. 
 
-* [Summary page](summary.md)
+# Table of contents
 
 ## 🌲 Tree Questions
 
